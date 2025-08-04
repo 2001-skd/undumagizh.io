@@ -1,12 +1,39 @@
-# React + Vite
+# Undu Magizh 🍲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Undu Magizh** is a simple web app to browse and bookmark delicious recipes.
 
-Currently, two official plugins are available:
+Built using **React**, this project helped me explore and apply several frontend development concepts in a real-world use case.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📖 Browse recipes with details
+- 🔖 Bookmark your favorite recipes
+- 🌐 Dynamic Routing & Lazy Loading
+- ⚙️ State management using Redux
+
+---
+
+## 🧠 What I Learned
+
+- ✅ Creating reusable components
+- 🔄 Fetching data from APIs and rendering in UI
+- 🔒 Understanding controlled vs uncontrolled components
+- 📶 Lifting state up in React
+- 📦 Managing global state with Redux and avoiding prop drilling
+- 🌍 Configuring routing with `react-router-dom`, including:
+  - Dynamic routes
+  - Custom error pages
+- 💤 Implementing lazy loading for better performance
+
+---
+
+## 📁 Tech Stack
+
+- **React**
+- **Redux Toolkit**
+- **React Router DOM**
+- **Vite**
+
+> Created with ❤️ by Santhakumar
