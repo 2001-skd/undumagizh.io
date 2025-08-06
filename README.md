@@ -6,6 +6,12 @@ Built using **React**, this project helped me explore and apply several frontend
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Visit Live Site](https://undu-magizh-f0f84.web.app/)
+
+---
+
 ## 🚀 Features
 
 - 📖 Browse recipes with details
@@ -22,10 +28,11 @@ Built using **React**, this project helped me explore and apply several frontend
 - 🔒 Understanding controlled vs uncontrolled components
 - 📶 Lifting state up in React
 - 📦 Managing global state with Redux and avoiding prop drilling
+- 🧰 Learnt **Redux Toolkit basics** for cleaner and more efficient state management
+- 🧪 Explored **React Testing Library basics** for testing components and UI behavior
 - 🌍 Configuring routing with `react-router-dom`, including:
   - Dynamic routes
   - Custom error pages
-- 💤 Implementing lazy loading for better performance
 
 ---
 
@@ -35,5 +42,11 @@ Built using **React**, this project helped me explore and apply several frontend
 - **Redux Toolkit**
 - **React Router DOM**
 - **Vite**
+
+---
+
+## 🌐 Connect with Me
+
+[🔗 LinkedIn – Santhakumar (React Developer)](https://www.linkedin.com/in/santhakumar-reactdeveloper/)
 
 > Created with ❤️ by Santhakumar
