@@ -11,10 +11,7 @@ const Header = () => {
   return (
     <header>
       <div className="logo_container">
-        <img
-          src="../../src/assets/images/logo/logo_1.png"
-          className="logo_img"
-        />
+        <img src="images/logo/logo_1.png" className="logo_img" />
       </div>
       <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
         <span className={menuOpen ? "bar open" : "bar"}></span>

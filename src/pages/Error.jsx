@@ -11,7 +11,7 @@ const Error = () => {
       <h4>
         {err.status} : {err.statusText}
       </h4>
-      <img src="../../src/assets/images/logo/logo_1.png" alt="logo" />
+      <img src="images/logo/logo_1.png" alt="logo" />
       <Link to="/">
         <button>Go To Home Safely !</button>
       </Link>
